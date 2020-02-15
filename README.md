@@ -1,5 +1,5 @@
-# News App 📰
-Built using React Native and NYT's Top Stories API
+# NewsBits 📰
+A news app built using React Native and The New York Times Top Stories API
 
 <i>React Native is an open-source mobile application framework created by Facebook. It is used to develop applications for Android, iOS, Web and UWP by enabling developers to use React along with native platform capabilities.</i>
 
